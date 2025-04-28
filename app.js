@@ -96,6 +96,7 @@ const reStart=()=>{
    
     winner.classList.add("hide");
     enabledBox();
+    count=0;
     
 }
 
