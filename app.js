@@ -68,6 +68,7 @@ const checkWinner=()=>{
                 showWinner(pos1Val);
                 return true;
                }  
+              
          }
 
     }
