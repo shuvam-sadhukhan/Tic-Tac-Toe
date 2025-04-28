@@ -1,1 +1,1 @@
-# This is the original ic-tac-toe game.
+# This is the original tic-tac-toe game.
